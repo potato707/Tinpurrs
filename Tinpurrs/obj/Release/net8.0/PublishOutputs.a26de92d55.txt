@@ -1,0 +1,11 @@
+C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.exe
+C:\Users\mmmod\source\projects\Tinpurrs\out\appsettings.Development.json
+C:\Users\mmmod\source\projects\Tinpurrs\out\appsettings.json
+C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.dll
+C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.deps.json
+C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.runtimeconfig.json
+C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.pdb
+C:\Users\mmmod\source\projects\Tinpurrs\out\Microsoft.OpenApi.dll
+C:\Users\mmmod\source\projects\Tinpurrs\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mmmod\source\projects\Tinpurrs\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mmmod\source\projects\Tinpurrs\out\Swashbuckle.AspNetCore.SwaggerUI.dll
