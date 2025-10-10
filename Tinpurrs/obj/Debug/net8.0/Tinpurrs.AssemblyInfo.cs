@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tinpurrs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c03a875970798f7d7566ac5ca387a7031a5aa014")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6aad7cf756d84aefa79cbe3a232048412c90df0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tinpurrs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tinpurrs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
