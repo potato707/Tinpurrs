@@ -1,6 +1,7 @@
 C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.exe
 C:\Users\mmmod\source\projects\Tinpurrs\out\appsettings.Development.json
 C:\Users\mmmod\source\projects\Tinpurrs\out\appsettings.json
+C:\Users\mmmod\source\projects\Tinpurrs\out\Data\breeds.json
 C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.dll
 C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.deps.json
 C:\Users\mmmod\source\projects\Tinpurrs\out\Tinpurrs.runtimeconfig.json
